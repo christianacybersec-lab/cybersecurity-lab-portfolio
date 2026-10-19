@@ -58,3 +58,4 @@ The simulator feedback highlighted the importance of identifying affected entiti
 - Develop familiarity with SIEM tools and security logs.
 
 **Lab outcome:** Successfully completed the simulation with all four alerts classified correctly.
+![TryHackMe SOC Simulator Results](SOC%20SIMULATOR%20001.png)
