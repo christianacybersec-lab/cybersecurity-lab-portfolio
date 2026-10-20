@@ -52,4 +52,3 @@ I also learned that identifying the sending server and examining linked domains 
 
 Successfully completed the LetsDefend Phishing Email challenge and earned the **Phishing Analyzer** badge.
 
-*This report summarizes the investigative process without disclosing the challenge's specific answers.*
